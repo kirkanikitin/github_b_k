@@ -14,7 +14,7 @@ class Main extends StatelessWidget {
         body: Center(
           child: Column(
             children: [
-              Text('КИРИЛЛ ТОП')
+              Text('КИРИЛЛ, Баир ТОП')
             ],
           ),
         ),
